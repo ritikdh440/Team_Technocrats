@@ -4,7 +4,7 @@
 <br>
 
 ### 🔭 &nbsp; About this Project
-In this project, we aim to develop a self sufficient, secure and encrypted banking system which will interconnect the remote form dispensation and submission.  We intend to blend the credibility of QR-code scanning with efficient web-hosting to make the whole process simpler and faster. We aim to build the real 3D model to the machine that will be heart of our machine on the solidworks and a website for the demonstration pf the whole that is to be carried out which includes the viewing various forms at one location and collection of all forms at our firebase, for all the development we use ***html5, css, javascipt,bootstrap,google cloud services***.
+In this project, we aim to develop a self sufficient, secure and encrypted banking system which will interconnect the remote form dispensation and submission.  We intend to blend the credibility of QR-code scanning with efficient web-hosting to make the whole process simpler and faster. We aim to build the real 3D model to the machine that will be heart of our machine on the solidworks and a website for the demonstration pf the whole that is to be carried out which includes the viewing various forms at one location and collection of all forms at our firebase, for all the development we use ***html5, css, javascRipt, bootstrap, google cloud services***.
 
 
 ### 🛠 &nbsp;Tech Stack
