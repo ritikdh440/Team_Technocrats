@@ -6,7 +6,7 @@
     <title>Upload Station</title>
     <style media="screen">
       body{
-        min-height: 100 vh;
+        min-height: 150 vh;
         width:100%;
         padding: 0%;
         margin:0%;
@@ -20,7 +20,7 @@
       #uploader{
         -webkit-appearance: none;
         appearance:none;
-        width: 50%;
+        width: 75%;
         margin-bottom :10px;
       }
      #banner {
@@ -35,6 +35,15 @@
           padding-top: 170px;
           padding-left:2.5%;
       }
+      @media screen and (max-width:770px){
+          .banner-text{
+          font-size: 80%;
+        }
+          .banner-text{
+          flex-basis: 50%;
+        }
+}
+
     </style>
 
     <!-- update the version number as needed -->
@@ -98,8 +107,9 @@
     </header><!-- End Header -->
     <section id ="banner">
       <div class="banner-text">
+          
           <progress value="0" max="100" id= "uploader">0%</progress>
-          <p><input type="file" id="fileButton" name="fileButton" multiple= ""></p>
+          <p><input type="file" id="fileButton" name="fileButton" multiple= "" ></p>
   
       </div>
           </section>
