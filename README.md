@@ -18,12 +18,12 @@ In this project, we aim to develop a self sufficient, secure and encrypted banki
 <br>
 
 ### 💼 &nbsp; Working
-Step 1: Get our AFSC machine installed in the bank space with the cloud account of the bank employees used to make the real time database for each of the worker.
-Step 2: Scan the Q-R code on the AFSC machine which will redirect you to our website where you can find a variety of forms to choose from.
-Step 3: Then choose your form and it will be automatically printed from the machine.
-Step 4: Take out the form fill it out and use the upload form panel on our website to upload the filled scanned copy of documents.
-Step 5: Then from there the form is directed to the clerk's storage database where it can be veriied.
-Step 6: Later an approval is send by the clerk back to the person if the form is filled correctly.
+#### Step 1: Get our AFSC machine installed in the bank space with the cloud account of the bank employees used to make the real time database for each of the worker.
+#### Step 2: Scan the Q-R code on the AFSC machine which will redirect you to our website where you can find a variety of forms to choose from.
+#### Step 3: Then choose your form and it will be automatically printed from the machine.
+#### Step 4: Take out the form fill it out and use the upload form panel on our website to upload the filled scanned copy of documents.
+#### Step 5: Then from there the form is directed to the clerk's storage database where it can be veriied.
+#### Step 6: Later an approval is send by the clerk back to the person if the form is filled correctly.
  
  
  
