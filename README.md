@@ -19,3 +19,7 @@ In this project, we aim to develop a self sufficient, secure and encrypted banki
 
 ###  ✍️ &nbsp; Current Progress
  
+<<<<<<< HEAD
+=======
+
+>>>>>>> a6d6efc487e19581af7ead8cb626b9e0691e9d98
