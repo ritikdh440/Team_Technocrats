@@ -28,7 +28,8 @@ In this project, we aim to develop a self sufficient, secure and encrypted banki
  
  
 
-###  ✍️ &nbsp; Current Progress
+###  ✍️ &nbsp;  Business aspect
+The AFSC machine reduces human input as it eliminates queues and counters. The machine will be rendered via 3-D modular printer, which gives a big economic and commercial advantage to the buyers. An efficient banking system that is technically equipped, easy to handle and hassle-free  will directly influence loyalty of customers towards the bank, bringing a lot of liquidity to the bank and steering it clear ahead of the competitors.
  
  
  
