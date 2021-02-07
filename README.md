@@ -24,6 +24,7 @@ In this project, we aim to develop a self sufficient, secure and encrypted banki
 <img src = "public/assets/snips/step2.png"><br>
 **Step 3**: Then choose your form and it will be automatically printed from the machine.<br>
 **Step 4**: Take out the form fill it out and use the upload form panel on our website to upload the filled scanned copy of documents.<br>
+<img src = "public/assets/snips/step3.png"><br>
 **Step 5**: Then from there the form is directed to the clerk's storage database where it can be veriied.<br>
 **Step 6**: Later an approval is send by the clerk back to the person if the form is filled correctly.<br>
  
