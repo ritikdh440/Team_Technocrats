@@ -1,6 +1,6 @@
 # Project A F S C
 ## Introduction
-*Banking** Banking services have always been the source of major inconvenience to the customers mainly due to inefficient working, lousy form handling and deposition for money withdrawal, deposit or transfer. We intend to blend the credibility of ***QR-code scanning with efficient web-hosting to make the process simpler and faster***.
+Banking services have always been the source of major inconvenience to the customers mainly due to inefficient working, lousy form handling and deposition for money withdrawal, deposit or transfer. We intend to blend the credibility of ***QR-code scanning with efficient web-hosting to make the process simpler and faster***.
 <br>
 
 ### 🔭 &nbsp; About this Project
@@ -28,8 +28,8 @@ In this project, we aim to develop a self sufficient, secure and encrypted banki
 **Step 5**: Then from there the form is directed to the clerk's storage database where it can be veriied.<br>
 **Step 6**: Later an approval is send by the clerk back to the person if the form is filled correctly.<br>
  
- 
- 
+## Optimization
+<img src = "public/assets/snips/OPTIMIZE.png"><br>
 
 ###  ✍️ &nbsp;  Business aspect
 The AFSC machine reduces human input as it eliminates queues and counters. The machine will be rendered via 3-D modular printer, which gives a big economic and commercial advantage to the buyers. An efficient banking system that is technically equipped, easy to handle and hassle-free  will directly influence loyalty of customers towards the bank, bringing a lot of liquidity to the bank and steering it clear ahead of the competitors.
